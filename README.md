@@ -5,3 +5,6 @@ Then comes the analysis part : where, we need to separate ambient noises from th
 A good acoustic model should be derived from speech characteristics that will enable the system to distinguish between the different words in the dictionary.
 Then we select a classification algorithm.
 We also need to build a UI(user interface) that displays the time domain plot of each detected word as well as the classified digit for the program.
+
+
+Here is the video link for demo of our project:  https://www.youtube.com/watch?v=veRKVuxq0Ks&t=1s
